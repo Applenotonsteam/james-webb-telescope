@@ -60,14 +60,14 @@ img {
 
 header h1 {
 	margin-left: 35%;
-	color: #734F2F;
+	color: #ffffff;
 	font-weight: bold;
 	font-size: 5em;
 }
 
 header h2 {
 	margin-left: 45%;
-	color: #11181e;
+	color: #ffffff;
 	
 }
 
@@ -87,7 +87,7 @@ header img {
 
 main {
 	width: 100%;
-	mine-height: 500px;
+	min-height: 500px;
 }
 
 #container {
@@ -95,7 +95,7 @@ main {
 	margin: 0 auto;
 	width: 80%;
 	min-height: 500px;
-	background-color: whitesmoke;
+	background-color: rgb(0, 0, 0);
 }
 
 #container img{
@@ -128,20 +128,12 @@ nav li a  {
 	text-decoration: none;
 }
 
-h1{
-	
-}
 
-h2{
-	
-}
 #container {
 	min-height: 500px;
 	width: 80%;
 }
-blockQuote{
-	
-}
+
 
 .fnav{
 	clear: both;
@@ -153,6 +145,14 @@ footer h4, footer h5, footer h6 {
 	text-align: center;
 }
 
-form {
-	
+h1{
+    color:#ffffff
+}
+
+h2{
+    color:#ffffff
+}
+
+h3{
+    color:#ffffff
 }
