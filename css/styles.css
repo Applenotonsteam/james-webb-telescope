@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed&display=swap');
+
+/*
+font-family: 'Saira Condensed', sans-serif;
+*/
 body, header, nav, main, footer, h1, h2, div, img, ul, li{
 	padding: 0;
 	margin: 0;
@@ -31,6 +36,8 @@ li a {
 li a:hover {
   background-color: #111111;
 }
+
+
 
 
 
@@ -147,12 +154,15 @@ footer h4, footer h5, footer h6 {
 
 h1{
     color:#ffffff
+    font-family: 'Saira Condensed', sans-serif;
 }
 
 h2{
     color:#ffffff
+    font-family: 'Saira Condensed', sans-serif;
 }
 
 h3{
     color:#ffffff
+    font-family: 'Saira Condensed', sans-serif;
 }
